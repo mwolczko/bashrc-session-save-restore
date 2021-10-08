@@ -8,6 +8,7 @@ On macOS, Terminal has hooks that can be used to save and restore sessions.  The
 - shell options
 - the status of shell builtins
 - shell functions
+
 as well as history.
 
 Usage: append the contents of "bashrc" to your .bashrc file (or prepend or insert anywhere where it won't cause a problem), or source it
